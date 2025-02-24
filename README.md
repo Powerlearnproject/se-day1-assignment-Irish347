@@ -5,13 +5,11 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry. 
-
-software engineering is a branch of computer science used for developing, testing and maintaining software. 
-reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
-efficiency - it helps to optimize developer workflow while maintaining high quality standards.
- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
- security - implement protection practice like authentication, authorization and encryption to secure users information. 
-
+Software engineering is a systematic and structured approach to developing, testing, and maintaining software systems. It involves applying scientific methods and engineering principles to ensure the reliability, efficiency, and quality of software.
+ Security: Software engineering practices ensure secure software systems that protect sensitive data and user privacy
+ Artificial Intelligence (AI): Software engineering is crucial in the development and application of AI-powered systems, from machine learning algorithms to self-driving cars.
+ Accessibility: Software engineering principles promote accessibility for users with disabilities, enabling them to use and engage with technology
+ reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The Birth of Fortran and Cobol (1957)
